@@ -77,10 +77,10 @@
     <None Include="Assets\2d-extras-master\Runtime\Unity.2D.Tilemap.Extras.asmdef" />
     <None Include="Assets\2d-extras-master\Runtime\Brushes\TintedTilemap.shader" />
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/mygame/CatchSheep/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/GitDeskTop/SheepInControl/CatchSheep/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/mygame/CatchSheep/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/GitDeskTop/SheepInControl/CatchSheep/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>E:/GameMaker/UnityPrevious/2019.3.9f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
