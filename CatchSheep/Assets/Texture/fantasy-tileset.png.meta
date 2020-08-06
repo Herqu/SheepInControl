@@ -1,0 +1,7007 @@
+fileFormatVersion: 2
+guid: a785384479deb4c44ac79f95976ce424
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5540560929230879705
+    second: fantasy-tileset_0
+  - first:
+      213: -8528275528972263596
+    second: fantasy-tileset_1
+  - first:
+      213: -4030419673463702229
+    second: fantasy-tileset_2
+  - first:
+      213: 7724249226848826837
+    second: fantasy-tileset_3
+  - first:
+      213: 6913648384851564489
+    second: fantasy-tileset_4
+  - first:
+      213: 1906773138480164881
+    second: fantasy-tileset_5
+  - first:
+      213: -1886518405089154510
+    second: fantasy-tileset_6
+  - first:
+      213: -1233879270005637309
+    second: fantasy-tileset_7
+  - first:
+      213: -2910866023388054973
+    second: fantasy-tileset_8
+  - first:
+      213: -5876620391618104751
+    second: fantasy-tileset_9
+  - first:
+      213: -5417800100767688229
+    second: fantasy-tileset_10
+  - first:
+      213: 7750937544221602005
+    second: fantasy-tileset_11
+  - first:
+      213: 1008094691508647805
+    second: fantasy-tileset_12
+  - first:
+      213: 4814919721043376384
+    second: fantasy-tileset_13
+  - first:
+      213: -6580142217386256552
+    second: fantasy-tileset_14
+  - first:
+      213: 4579243771910879093
+    second: fantasy-tileset_15
+  - first:
+      213: -5011697511830001324
+    second: fantasy-tileset_16
+  - first:
+      213: 7213819880057416053
+    second: fantasy-tileset_17
+  - first:
+      213: -6712216077966121394
+    second: fantasy-tileset_18
+  - first:
+      213: -8077081541785928779
+    second: fantasy-tileset_19
+  - first:
+      213: 5497132294069786235
+    second: fantasy-tileset_20
+  - first:
+      213: -5518000945165798151
+    second: fantasy-tileset_21
+  - first:
+      213: 1428993598892915318
+    second: fantasy-tileset_22
+  - first:
+      213: 2947339618037972350
+    second: fantasy-tileset_23
+  - first:
+      213: 2796734474744599544
+    second: fantasy-tileset_24
+  - first:
+      213: 4965168510845820712
+    second: fantasy-tileset_25
+  - first:
+      213: -2576446200169491007
+    second: fantasy-tileset_26
+  - first:
+      213: -7494588264200140068
+    second: fantasy-tileset_27
+  - first:
+      213: -5877776999250526428
+    second: fantasy-tileset_28
+  - first:
+      213: -7896045432736577089
+    second: fantasy-tileset_29
+  - first:
+      213: -6844666400877546826
+    second: fantasy-tileset_30
+  - first:
+      213: -927319508164441075
+    second: fantasy-tileset_31
+  - first:
+      213: 985365843048149142
+    second: fantasy-tileset_32
+  - first:
+      213: 3248773155225967244
+    second: fantasy-tileset_33
+  - first:
+      213: 1348347189256805029
+    second: fantasy-tileset_34
+  - first:
+      213: -1084896313759828054
+    second: fantasy-tileset_35
+  - first:
+      213: 3636705925622837700
+    second: fantasy-tileset_36
+  - first:
+      213: -8421064167028278737
+    second: fantasy-tileset_37
+  - first:
+      213: -6416744513608088849
+    second: fantasy-tileset_38
+  - first:
+      213: 8694473940574346283
+    second: fantasy-tileset_39
+  - first:
+      213: 5325036484120114441
+    second: fantasy-tileset_40
+  - first:
+      213: -7688743166605882962
+    second: fantasy-tileset_41
+  - first:
+      213: -2791070666442269920
+    second: fantasy-tileset_42
+  - first:
+      213: -7454385571116498233
+    second: fantasy-tileset_43
+  - first:
+      213: 8195586091882512539
+    second: fantasy-tileset_44
+  - first:
+      213: 4644201986982790383
+    second: fantasy-tileset_45
+  - first:
+      213: 7276908524807818707
+    second: fantasy-tileset_46
+  - first:
+      213: -6735715535609320245
+    second: fantasy-tileset_47
+  - first:
+      213: 3051724645666590405
+    second: fantasy-tileset_48
+  - first:
+      213: -7902515990195535552
+    second: fantasy-tileset_49
+  - first:
+      213: -3592449550220431594
+    second: fantasy-tileset_50
+  - first:
+      213: -1388440324897937209
+    second: fantasy-tileset_51
+  - first:
+      213: 5723883232391451346
+    second: fantasy-tileset_52
+  - first:
+      213: 4156854533550575938
+    second: fantasy-tileset_53
+  - first:
+      213: -9219602507394046171
+    second: fantasy-tileset_54
+  - first:
+      213: -4016502842198131973
+    second: fantasy-tileset_55
+  - first:
+      213: -7010667237846405213
+    second: fantasy-tileset_56
+  - first:
+      213: 1494814208491068031
+    second: fantasy-tileset_57
+  - first:
+      213: -3064329805684358327
+    second: fantasy-tileset_58
+  - first:
+      213: 2234865149677442593
+    second: fantasy-tileset_59
+  - first:
+      213: -8265591951794907537
+    second: fantasy-tileset_60
+  - first:
+      213: 5978243881527681093
+    second: fantasy-tileset_61
+  - first:
+      213: 1986837758717392971
+    second: fantasy-tileset_62
+  - first:
+      213: 554770863731791614
+    second: fantasy-tileset_63
+  - first:
+      213: -3519056913219931219
+    second: fantasy-tileset_64
+  - first:
+      213: 8439510059165348681
+    second: fantasy-tileset_65
+  - first:
+      213: 2206415654418183135
+    second: fantasy-tileset_66
+  - first:
+      213: 8543629316012703790
+    second: fantasy-tileset_67
+  - first:
+      213: 1710708876774490792
+    second: fantasy-tileset_68
+  - first:
+      213: 8844813529081762032
+    second: fantasy-tileset_69
+  - first:
+      213: 7127846398622239797
+    second: fantasy-tileset_70
+  - first:
+      213: -8128256727262526282
+    second: fantasy-tileset_71
+  - first:
+      213: -4123809116985420174
+    second: fantasy-tileset_72
+  - first:
+      213: -6611153959510183514
+    second: fantasy-tileset_73
+  - first:
+      213: 445769079185082233
+    second: fantasy-tileset_74
+  - first:
+      213: -3028001621000829951
+    second: fantasy-tileset_75
+  - first:
+      213: 8747977833915300282
+    second: fantasy-tileset_76
+  - first:
+      213: 5067902416147120332
+    second: fantasy-tileset_77
+  - first:
+      213: 1349179002653250635
+    second: fantasy-tileset_78
+  - first:
+      213: 1048595188984782034
+    second: fantasy-tileset_79
+  - first:
+      213: -4650850275656155338
+    second: fantasy-tileset_80
+  - first:
+      213: -2014637570507952168
+    second: fantasy-tileset_81
+  - first:
+      213: 6751712694717259935
+    second: fantasy-tileset_82
+  - first:
+      213: 3627524673897027508
+    second: fantasy-tileset_83
+  - first:
+      213: -2181449052348835929
+    second: fantasy-tileset_84
+  - first:
+      213: -1713854474404969562
+    second: fantasy-tileset_85
+  - first:
+      213: -1079139608998772312
+    second: fantasy-tileset_86
+  - first:
+      213: 7519830214284189054
+    second: fantasy-tileset_87
+  - first:
+      213: 8165935918133025528
+    second: fantasy-tileset_88
+  - first:
+      213: 7766045210434411402
+    second: fantasy-tileset_89
+  - first:
+      213: -7284914182584639275
+    second: fantasy-tileset_90
+  - first:
+      213: -2588823126644354792
+    second: fantasy-tileset_91
+  - first:
+      213: 1289448868149252148
+    second: fantasy-tileset_92
+  - first:
+      213: -3078948059233826739
+    second: fantasy-tileset_93
+  - first:
+      213: 4524986365097785791
+    second: fantasy-tileset_94
+  - first:
+      213: -2056093125983918824
+    second: fantasy-tileset_95
+  - first:
+      213: -147811608718582352
+    second: fantasy-tileset_96
+  - first:
+      213: -5492539829648978348
+    second: fantasy-tileset_97
+  - first:
+      213: 8872747667581503473
+    second: fantasy-tileset_98
+  - first:
+      213: -6294550535803599035
+    second: fantasy-tileset_99
+  - first:
+      213: 7048015179794450178
+    second: fantasy-tileset_100
+  - first:
+      213: -124333301315253110
+    second: fantasy-tileset_101
+  - first:
+      213: 6932463394365018933
+    second: fantasy-tileset_102
+  - first:
+      213: -7947461412473035273
+    second: fantasy-tileset_103
+  - first:
+      213: 440154593759696455
+    second: fantasy-tileset_104
+  - first:
+      213: -2557580795725576988
+    second: fantasy-tileset_105
+  - first:
+      213: 8891405997154784441
+    second: fantasy-tileset_106
+  - first:
+      213: 7116858345581898841
+    second: fantasy-tileset_107
+  - first:
+      213: 2629774671519225080
+    second: fantasy-tileset_108
+  - first:
+      213: -7810725673283016633
+    second: fantasy-tileset_109
+  - first:
+      213: -6871345045860986165
+    second: fantasy-tileset_110
+  - first:
+      213: 3686081646001397199
+    second: fantasy-tileset_111
+  - first:
+      213: 3749226251534059730
+    second: fantasy-tileset_112
+  - first:
+      213: 4744036641841821663
+    second: fantasy-tileset_113
+  - first:
+      213: 3648736774676827121
+    second: fantasy-tileset_114
+  - first:
+      213: -5153157648882587646
+    second: fantasy-tileset_115
+  - first:
+      213: 8037905141359192170
+    second: fantasy-tileset_116
+  - first:
+      213: 5223777348212429330
+    second: fantasy-tileset_117
+  - first:
+      213: -9186801130637752152
+    second: fantasy-tileset_118
+  - first:
+      213: 3245875913121820106
+    second: fantasy-tileset_119
+  - first:
+      213: 2536150286902207853
+    second: fantasy-tileset_120
+  - first:
+      213: 6066695878731177743
+    second: fantasy-tileset_121
+  - first:
+      213: -6737639510896516610
+    second: fantasy-tileset_122
+  - first:
+      213: 6522309582639638341
+    second: fantasy-tileset_123
+  - first:
+      213: 9003947920373432278
+    second: fantasy-tileset_124
+  - first:
+      213: 8756923538084545134
+    second: fantasy-tileset_125
+  - first:
+      213: -8324104712647302102
+    second: fantasy-tileset_126
+  - first:
+      213: -4916665574660445534
+    second: fantasy-tileset_127
+  - first:
+      213: -6350698045809522494
+    second: fantasy-tileset_128
+  - first:
+      213: -1426134399100388267
+    second: fantasy-tileset_129
+  - first:
+      213: 2991978148252989052
+    second: fantasy-tileset_130
+  - first:
+      213: 7089637743406818456
+    second: fantasy-tileset_131
+  - first:
+      213: 1655910261989133638
+    second: fantasy-tileset_132
+  - first:
+      213: 4948380776862299451
+    second: fantasy-tileset_133
+  - first:
+      213: 7935310477868949710
+    second: fantasy-tileset_134
+  - first:
+      213: -7291675698325153351
+    second: fantasy-tileset_135
+  - first:
+      213: 5731960209742350554
+    second: fantasy-tileset_136
+  - first:
+      213: -3491364400176616396
+    second: fantasy-tileset_137
+  - first:
+      213: -686328890070474844
+    second: fantasy-tileset_138
+  - first:
+      213: -7307213989606587699
+    second: fantasy-tileset_139
+  - first:
+      213: -1398236343506663916
+    second: fantasy-tileset_140
+  - first:
+      213: 50327568931598455
+    second: fantasy-tileset_141
+  - first:
+      213: -3458196222730142705
+    second: fantasy-tileset_142
+  - first:
+      213: 2641064150132431202
+    second: fantasy-tileset_143
+  - first:
+      213: 2490664722144508276
+    second: fantasy-tileset_144
+  - first:
+      213: -3534240751243543603
+    second: fantasy-tileset_145
+  - first:
+      213: 8972793132350676798
+    second: fantasy-tileset_146
+  - first:
+      213: -4993404949563994536
+    second: fantasy-tileset_147
+  - first:
+      213: -9160590909549420617
+    second: fantasy-tileset_148
+  - first:
+      213: -841010341038168546
+    second: fantasy-tileset_149
+  - first:
+      213: -8670252604052892731
+    second: fantasy-tileset_150
+  - first:
+      213: 2440533008600665230
+    second: fantasy-tileset_151
+  - first:
+      213: 7181820263568265194
+    second: fantasy-tileset_152
+  - first:
+      213: -3893329808383217621
+    second: fantasy-tileset_153
+  - first:
+      213: -764880954105367302
+    second: fantasy-tileset_154
+  - first:
+      213: 7608715701441961317
+    second: fantasy-tileset_155
+  - first:
+      213: 221590899719460002
+    second: fantasy-tileset_156
+  - first:
+      213: -3492803859648409994
+    second: fantasy-tileset_157
+  - first:
+      213: -6960764231454448665
+    second: fantasy-tileset_158
+  - first:
+      213: -3458778310814244575
+    second: fantasy-tileset_159
+  - first:
+      213: -9191483932937271722
+    second: fantasy-tileset_160
+  - first:
+      213: 5237238041319756947
+    second: fantasy-tileset_161
+  - first:
+      213: -7005116066996686081
+    second: fantasy-tileset_162
+  - first:
+      213: 3814991319006135921
+    second: fantasy-tileset_163
+  - first:
+      213: -7227557905602712326
+    second: fantasy-tileset_164
+  - first:
+      213: -6374658233019645987
+    second: fantasy-tileset_165
+  - first:
+      213: -1008497511458628560
+    second: fantasy-tileset_166
+  - first:
+      213: -7011314955537922932
+    second: fantasy-tileset_167
+  - first:
+      213: -4880722676698819621
+    second: fantasy-tileset_168
+  - first:
+      213: -7330657926690811238
+    second: fantasy-tileset_169
+  - first:
+      213: 2079081369317150121
+    second: fantasy-tileset_170
+  - first:
+      213: 3886471620265707726
+    second: fantasy-tileset_171
+  - first:
+      213: -6046304067622262798
+    second: fantasy-tileset_172
+  - first:
+      213: -5245712728503987898
+    second: fantasy-tileset_173
+  - first:
+      213: -2150749793978850839
+    second: fantasy-tileset_174
+  - first:
+      213: -2304898294767180636
+    second: fantasy-tileset_175
+  - first:
+      213: 7141588279304380645
+    second: fantasy-tileset_176
+  - first:
+      213: -2745111598071257526
+    second: fantasy-tileset_177
+  - first:
+      213: 3464334651021218936
+    second: fantasy-tileset_178
+  - first:
+      213: 7730930824718462031
+    second: fantasy-tileset_179
+  - first:
+      213: -3717217053188162197
+    second: fantasy-tileset_180
+  - first:
+      213: 7680207774780072066
+    second: fantasy-tileset_181
+  - first:
+      213: -2226297927564551682
+    second: fantasy-tileset_182
+  - first:
+      213: -5375204969966009524
+    second: fantasy-tileset_183
+  - first:
+      213: -8782922292602356837
+    second: fantasy-tileset_184
+  - first:
+      213: -1672567665897438622
+    second: fantasy-tileset_185
+  - first:
+      213: -6704322306380680287
+    second: fantasy-tileset_186
+  - first:
+      213: -8621434785118112904
+    second: fantasy-tileset_187
+  - first:
+      213: 1954189374489859653
+    second: fantasy-tileset_188
+  - first:
+      213: -4735351130641498257
+    second: fantasy-tileset_189
+  - first:
+      213: -2929329528789095339
+    second: fantasy-tileset_190
+  - first:
+      213: 3603059598022118648
+    second: fantasy-tileset_191
+  - first:
+      213: -8082403574378317288
+    second: fantasy-tileset_192
+  - first:
+      213: 3354856269735963589
+    second: fantasy-tileset_193
+  - first:
+      213: -5173247145937878084
+    second: fantasy-tileset_194
+  - first:
+      213: -5879559325115889508
+    second: fantasy-tileset_195
+  - first:
+      213: -7921539688702801867
+    second: fantasy-tileset_196
+  - first:
+      213: 4805895700947390366
+    second: fantasy-tileset_197
+  - first:
+      213: 7215750105521568029
+    second: fantasy-tileset_198
+  - first:
+      213: 5656812498380127084
+    second: fantasy-tileset_199
+  - first:
+      213: 1235362719576390043
+    second: fantasy-tileset_200
+  - first:
+      213: -5321384367141267446
+    second: fantasy-tileset_201
+  - first:
+      213: -1353932992110579254
+    second: fantasy-tileset_202
+  - first:
+      213: -1302945006950401215
+    second: fantasy-tileset_203
+  - first:
+      213: 1633645944446880457
+    second: fantasy-tileset_204
+  - first:
+      213: 7164769443996398399
+    second: fantasy-tileset_205
+  - first:
+      213: -6208800417491107461
+    second: fantasy-tileset_206
+  - first:
+      213: 6746150901286281554
+    second: fantasy-tileset_207
+  - first:
+      213: -3856627052345477668
+    second: fantasy-tileset_208
+  - first:
+      213: -8376231189004740947
+    second: fantasy-tileset_209
+  - first:
+      213: -5269055449432262325
+    second: fantasy-tileset_210
+  - first:
+      213: -6859824527740759971
+    second: fantasy-tileset_211
+  - first:
+      213: 544617790509730580
+    second: fantasy-tileset_212
+  - first:
+      213: -3197404100116061439
+    second: fantasy-tileset_213
+  - first:
+      213: -308682067563582569
+    second: fantasy-tileset_214
+  - first:
+      213: -5251700018091190313
+    second: fantasy-tileset_215
+  - first:
+      213: 8162150108889918112
+    second: fantasy-tileset_216
+  - first:
+      213: 1370182011171806962
+    second: fantasy-tileset_217
+  - first:
+      213: 2284262736184350873
+    second: fantasy-tileset_218
+  - first:
+      213: -840148625818397436
+    second: fantasy-tileset_219
+  - first:
+      213: 7487328884596273575
+    second: fantasy-tileset_220
+  - first:
+      213: 6009260195400539802
+    second: fantasy-tileset_221
+  - first:
+      213: 9105873647308643914
+    second: fantasy-tileset_222
+  - first:
+      213: 3734849160034499273
+    second: fantasy-tileset_223
+  - first:
+      213: 2867171519603460811
+    second: fantasy-tileset_224
+  - first:
+      213: -717541559365878656
+    second: fantasy-tileset_225
+  - first:
+      213: 6137828436931927025
+    second: fantasy-tileset_226
+  - first:
+      213: 1272322376302662669
+    second: fantasy-tileset_227
+  - first:
+      213: 5356528035810674477
+    second: fantasy-tileset_228
+  - first:
+      213: 5050000690451083014
+    second: fantasy-tileset_229
+  - first:
+      213: 4882487884717700079
+    second: fantasy-tileset_230
+  - first:
+      213: 5169602483260455077
+    second: fantasy-tileset_231
+  - first:
+      213: -1323304908737944527
+    second: fantasy-tileset_232
+  - first:
+      213: 3854589688359896939
+    second: fantasy-tileset_233
+  - first:
+      213: -7336214834623187476
+    second: fantasy-tileset_234
+  - first:
+      213: 147137461560991596
+    second: fantasy-tileset_235
+  - first:
+      213: -7828616986279354196
+    second: fantasy-tileset_236
+  - first:
+      213: 7495243235488905472
+    second: fantasy-tileset_237
+  - first:
+      213: 3495920235517031161
+    second: fantasy-tileset_238
+  - first:
+      213: 410854845582850332
+    second: fantasy-tileset_239
+  - first:
+      213: 4718309330967057847
+    second: fantasy-tileset_240
+  - first:
+      213: 79741057983050483
+    second: fantasy-tileset_241
+  - first:
+      213: -5392413991868851231
+    second: fantasy-tileset_242
+  - first:
+      213: -650788838214688497
+    second: fantasy-tileset_243
+  - first:
+      213: 3241573720500994207
+    second: fantasy-tileset_244
+  - first:
+      213: 1182772726601985820
+    second: fantasy-tileset_245
+  - first:
+      213: -8851724041527307609
+    second: fantasy-tileset_246
+  - first:
+      213: -8991015311202335769
+    second: fantasy-tileset_247
+  - first:
+      213: -7510454622949852054
+    second: fantasy-tileset_248
+  - first:
+      213: 6149657643185500390
+    second: fantasy-tileset_249
+  - first:
+      213: 6881513700856621224
+    second: fantasy-tileset_250
+  - first:
+      213: -4907895973348837900
+    second: fantasy-tileset_251
+  - first:
+      213: -9142446808247319506
+    second: fantasy-tileset_252
+  - first:
+      213: 6022617366519994614
+    second: fantasy-tileset_253
+  - first:
+      213: -2112610536108237917
+    second: fantasy-tileset_254
+  - first:
+      213: -1426888803453435314
+    second: fantasy-tileset_255
+  - first:
+      213: 1446386206798621703
+    second: fantasy-tileset_256
+  - first:
+      213: -301283372932088818
+    second: fantasy-tileset_257
+  - first:
+      213: 7114566208422317595
+    second: fantasy-tileset_258
+  - first:
+      213: -1572028955131426901
+    second: fantasy-tileset_259
+  - first:
+      213: -1677265052350017763
+    second: fantasy-tileset_260
+  - first:
+      213: 4186035801107263805
+    second: fantasy-tileset_261
+  - first:
+      213: -3323137382989369157
+    second: fantasy-tileset_262
+  - first:
+      213: 2304402362943964856
+    second: fantasy-tileset_263
+  - first:
+      213: 4363656998915607604
+    second: fantasy-tileset_264
+  - first:
+      213: 1619612954838031834
+    second: fantasy-tileset_265
+  - first:
+      213: 6790262069753034642
+    second: fantasy-tileset_266
+  - first:
+      213: -5668539794161614590
+    second: fantasy-tileset_267
+  - first:
+      213: 8632888035072992150
+    second: fantasy-tileset_268
+  - first:
+      213: -3979015934705139493
+    second: fantasy-tileset_269
+  - first:
+      213: -4960556642550902108
+    second: fantasy-tileset_270
+  - first:
+      213: -1249363860696944233
+    second: fantasy-tileset_271
+  - first:
+      213: 3800525566257706461
+    second: fantasy-tileset_272
+  - first:
+      213: 45991163363990089
+    second: fantasy-tileset_273
+  - first:
+      213: -2283309130296998865
+    second: fantasy-tileset_274
+  - first:
+      213: 6865029125010082279
+    second: fantasy-tileset_275
+  - first:
+      213: -7418717897229133238
+    second: fantasy-tileset_276
+  - first:
+      213: -4057889596774832336
+    second: fantasy-tileset_277
+  - first:
+      213: 5643470484394539533
+    second: fantasy-tileset_278
+  - first:
+      213: 8572528483225996728
+    second: fantasy-tileset_279
+  - first:
+      213: 283432879094457836
+    second: fantasy-tileset_280
+  - first:
+      213: -711118735520096100
+    second: fantasy-tileset_281
+  - first:
+      213: 7820400099907990913
+    second: fantasy-tileset_282
+  - first:
+      213: 4222802942576872016
+    second: fantasy-tileset_283
+  - first:
+      213: 7295239286379445273
+    second: fantasy-tileset_284
+  - first:
+      213: -7009140419584250099
+    second: fantasy-tileset_285
+  - first:
+      213: -5276554415692405116
+    second: fantasy-tileset_286
+  - first:
+      213: 8156089141296011459
+    second: fantasy-tileset_287
+  - first:
+      213: -2230034248464240492
+    second: fantasy-tileset_288
+  - first:
+      213: 8666335958391794717
+    second: fantasy-tileset_289
+  - first:
+      213: 2682886997627701430
+    second: fantasy-tileset_290
+  - first:
+      213: 6564438815392896593
+    second: fantasy-tileset_291
+  - first:
+      213: -5524429802551364628
+    second: fantasy-tileset_292
+  - first:
+      213: 4450641909871868628
+    second: fantasy-tileset_293
+  - first:
+      213: 8513711943457540444
+    second: fantasy-tileset_294
+  - first:
+      213: 4007579730014651389
+    second: fantasy-tileset_295
+  - first:
+      213: 6920601817584287885
+    second: fantasy-tileset_296
+  - first:
+      213: 545111904584387272
+    second: fantasy-tileset_297
+  - first:
+      213: -3897299721539165638
+    second: fantasy-tileset_298
+  - first:
+      213: 7992409369666035348
+    second: fantasy-tileset_299
+  - first:
+      213: 6077706980961314282
+    second: fantasy-tileset_300
+  - first:
+      213: 6217237861033897688
+    second: fantasy-tileset_301
+  - first:
+      213: -7235673111413840048
+    second: fantasy-tileset_302
+  - first:
+      213: 3749193304796491317
+    second: fantasy-tileset_303
+  - first:
+      213: -5043205859491039772
+    second: fantasy-tileset_304
+  - first:
+      213: -3895589493618491447
+    second: fantasy-tileset_305
+  - first:
+      213: 5987620960108384735
+    second: fantasy-tileset_306
+  - first:
+      213: -4732260921144686292
+    second: fantasy-tileset_307
+  - first:
+      213: -5103604335164877897
+    second: fantasy-tileset_308
+  - first:
+      213: -9101897910954068869
+    second: fantasy-tileset_309
+  - first:
+      213: -824951973540498659
+    second: fantasy-tileset_310
+  - first:
+      213: 2621218002179994718
+    second: fantasy-tileset_311
+  - first:
+      213: -4526511287097201366
+    second: fantasy-tileset_312
+  - first:
+      213: -2980782612212958988
+    second: fantasy-tileset_313
+  - first:
+      213: 5818838036136490452
+    second: fantasy-tileset_314
+  - first:
+      213: 4721154704584279151
+    second: fantasy-tileset_315
+  - first:
+      213: 1478639355049409529
+    second: fantasy-tileset_316
+  - first:
+      213: -2832322345944230535
+    second: fantasy-tileset_317
+  - first:
+      213: 599970739761728744
+    second: fantasy-tileset_318
+  - first:
+      213: 4585861336783690265
+    second: fantasy-tileset_319
+  - first:
+      213: -2892319419952637644
+    second: fantasy-tileset_320
+  - first:
+      213: 2793126184504458939
+    second: fantasy-tileset_321
+  - first:
+      213: 307180055945421788
+    second: fantasy-tileset_322
+  - first:
+      213: 6593465492706983054
+    second: fantasy-tileset_323
+  - first:
+      213: -5043234597694160373
+    second: fantasy-tileset_324
+  - first:
+      213: -1517528783362227929
+    second: fantasy-tileset_325
+  - first:
+      213: -7724888095780525081
+    second: fantasy-tileset_326
+  - first:
+      213: -6749841566874278019
+    second: fantasy-tileset_327
+  - first:
+      213: -6653744227930145742
+    second: fantasy-tileset_328
+  - first:
+      213: 7893953287372092037
+    second: fantasy-tileset_329
+  - first:
+      213: 4759210370855620348
+    second: fantasy-tileset_330
+  - first:
+      213: -2177647568608280442
+    second: fantasy-tileset_331
+  - first:
+      213: -826888796962491832
+    second: fantasy-tileset_332
+  - first:
+      213: -7553948133144691885
+    second: fantasy-tileset_333
+  - first:
+      213: -4630477718294778691
+    second: fantasy-tileset_334
+  - first:
+      213: 6526141322934456492
+    second: fantasy-tileset_335
+  - first:
+      213: 5573751220803230089
+    second: fantasy-tileset_336
+  - first:
+      213: -315545565055142988
+    second: fantasy-tileset_337
+  - first:
+      213: 2732029699551340463
+    second: fantasy-tileset_338
+  - first:
+      213: -8752710774906854214
+    second: fantasy-tileset_339
+  - first:
+      213: 4166832138398710028
+    second: fantasy-tileset_340
+  - first:
+      213: -980980114084521060
+    second: fantasy-tileset_341
+  - first:
+      213: 929771158459729325
+    second: fantasy-tileset_342
+  - first:
+      213: 6606087911049398941
+    second: fantasy-tileset_343
+  - first:
+      213: 2877284974934756962
+    second: fantasy-tileset_344
+  - first:
+      213: -7400777755587286857
+    second: fantasy-tileset_345
+  - first:
+      213: 5154889589685210284
+    second: fantasy-tileset_346
+  - first:
+      213: 7872060116216713270
+    second: fantasy-tileset_347
+  - first:
+      213: -6029517396206107562
+    second: fantasy-tileset_348
+  - first:
+      213: -5629960770376793862
+    second: fantasy-tileset_349
+  - first:
+      213: -3085637085314199424
+    second: fantasy-tileset_350
+  - first:
+      213: -6177932734073719706
+    second: fantasy-tileset_351
+  - first:
+      213: -3837729552237544959
+    second: fantasy-tileset_352
+  - first:
+      213: 5386559020879014123
+    second: fantasy-tileset_353
+  - first:
+      213: -7909546134535831689
+    second: fantasy-tileset_354
+  - first:
+      213: 7849817543433000509
+    second: fantasy-tileset_355
+  - first:
+      213: 6680429629658495387
+    second: fantasy-tileset_356
+  - first:
+      213: 4746854929481743486
+    second: fantasy-tileset_357
+  - first:
+      213: -3343429366104955575
+    second: fantasy-tileset_358
+  - first:
+      213: 8229935309477493338
+    second: fantasy-tileset_359
+  - first:
+      213: 3631707955447529501
+    second: fantasy-tileset_360
+  - first:
+      213: -6093071416035564160
+    second: fantasy-tileset_361
+  - first:
+      213: 3111133963811883147
+    second: fantasy-tileset_362
+  - first:
+      213: -108163892651225687
+    second: fantasy-tileset_363
+  - first:
+      213: -7941821208126230533
+    second: fantasy-tileset_364
+  - first:
+      213: 6187597990709181051
+    second: fantasy-tileset_365
+  - first:
+      213: -130010034882441858
+    second: fantasy-tileset_366
+  - first:
+      213: 4978475516462625930
+    second: fantasy-tileset_367
+  - first:
+      213: 1451999856345151148
+    second: fantasy-tileset_368
+  - first:
+      213: -5100893416018517291
+    second: fantasy-tileset_369
+  - first:
+      213: -8922394946947382037
+    second: fantasy-tileset_370
+  - first:
+      213: -8553695410321309805
+    second: fantasy-tileset_371
+  - first:
+      213: -2410969987869635284
+    second: fantasy-tileset_372
+  - first:
+      213: 3733231615120414782
+    second: fantasy-tileset_373
+  - first:
+      213: 5625558159430083683
+    second: fantasy-tileset_374
+  - first:
+      213: -1555004184515763110
+    second: fantasy-tileset_375
+  - first:
+      213: -3971567948982273163
+    second: fantasy-tileset_376
+  - first:
+      213: 2014975584489350110
+    second: fantasy-tileset_377
+  - first:
+      213: -4579159765531310574
+    second: fantasy-tileset_378
+  - first:
+      213: -1498515683328484138
+    second: fantasy-tileset_379
+  - first:
+      213: -2269269405305277115
+    second: fantasy-tileset_380
+  - first:
+      213: -8582693521825157721
+    second: fantasy-tileset_381
+  - first:
+      213: 2201421278742477588
+    second: fantasy-tileset_382
+  - first:
+      213: -1533510650269037647
+    second: fantasy-tileset_383
+  - first:
+      213: -4894947057190685880
+    second: fantasy-tileset_384
+  - first:
+      213: -1800188000965883926
+    second: fantasy-tileset_385
+  - first:
+      213: -7174244036093481849
+    second: fantasy-tileset_386
+  - first:
+      213: -8466922856629205184
+    second: fantasy-tileset_387
+  - first:
+      213: -3922418934273667080
+    second: fantasy-tileset_388
+  - first:
+      213: -3154503951875371576
+    second: fantasy-tileset_389
+  - first:
+      213: 63203147518820120
+    second: fantasy-tileset_390
+  - first:
+      213: -4660426812496311919
+    second: fantasy-tileset_391
+  - first:
+      213: 4520149340359116808
+    second: fantasy-tileset_392
+  - first:
+      213: 1215935307951569141
+    second: fantasy-tileset_393
+  - first:
+      213: 3756630298906384790
+    second: fantasy-tileset_394
+  - first:
+      213: 8609296968659050907
+    second: fantasy-tileset_395
+  - first:
+      213: 5589394948818682638
+    second: fantasy-tileset_396
+  - first:
+      213: 337489575100065887
+    second: fantasy-tileset_397
+  - first:
+      213: 1214116295863810671
+    second: fantasy-tileset_398
+  - first:
+      213: 2680849286378797077
+    second: fantasy-tileset_399
+  - first:
+      213: -6302850304795289704
+    second: fantasy-tileset_400
+  - first:
+      213: 8340679494276944667
+    second: fantasy-tileset_401
+  - first:
+      213: 7801368413852702689
+    second: fantasy-tileset_402
+  - first:
+      213: 6635812085102902428
+    second: fantasy-tileset_403
+  - first:
+      213: 6412085849700046181
+    second: fantasy-tileset_404
+  - first:
+      213: 8102739976753627722
+    second: fantasy-tileset_405
+  - first:
+      213: -9031727070049820396
+    second: fantasy-tileset_406
+  - first:
+      213: 2499670315033510842
+    second: fantasy-tileset_407
+  - first:
+      213: 6665186859521990923
+    second: fantasy-tileset_408
+  - first:
+      213: -2009603531692030776
+    second: fantasy-tileset_409
+  - first:
+      213: -3431319812907903729
+    second: fantasy-tileset_410
+  - first:
+      213: 1294678438461648031
+    second: fantasy-tileset_411
+  - first:
+      213: -3663200025710920681
+    second: fantasy-tileset_412
+  - first:
+      213: -15266841707630985
+    second: fantasy-tileset_413
+  - first:
+      213: -4173222107929953713
+    second: fantasy-tileset_414
+  - first:
+      213: 7514628020524011679
+    second: fantasy-tileset_415
+  - first:
+      213: 2224085415578802852
+    second: fantasy-tileset_416
+  - first:
+      213: 5676260461162446541
+    second: fantasy-tileset_417
+  - first:
+      213: -5553358373832133323
+    second: fantasy-tileset_418
+  - first:
+      213: -3892157269891882077
+    second: fantasy-tileset_419
+  - first:
+      213: 4062709310701948429
+    second: fantasy-tileset_420
+  - first:
+      213: 2002511053634760003
+    second: fantasy-tileset_421
+  - first:
+      213: 4265181822136705272
+    second: fantasy-tileset_422
+  - first:
+      213: 9115859119481129039
+    second: fantasy-tileset_423
+  - first:
+      213: 1350058013194278083
+    second: fantasy-tileset_424
+  - first:
+      213: -8023167962180587207
+    second: fantasy-tileset_425
+  - first:
+      213: -3949320797309455143
+    second: fantasy-tileset_426
+  - first:
+      213: 514841727235503777
+    second: fantasy-tileset_427
+  - first:
+      213: 1429835580983610505
+    second: fantasy-tileset_428
+  - first:
+      213: -7569350886775130071
+    second: fantasy-tileset_429
+  - first:
+      213: -4496251320227854517
+    second: fantasy-tileset_430
+  - first:
+      213: 4733026953159459429
+    second: fantasy-tileset_431
+  - first:
+      213: 8069276083695131329
+    second: fantasy-tileset_432
+  - first:
+      213: -4374455754483422630
+    second: fantasy-tileset_433
+  - first:
+      213: -4653412241468622844
+    second: fantasy-tileset_434
+  - first:
+      213: 3495008356875682832
+    second: fantasy-tileset_435
+  - first:
+      213: -2170259443746420428
+    second: fantasy-tileset_436
+  - first:
+      213: 7620739436206576681
+    second: fantasy-tileset_437
+  - first:
+      213: 1769280967920340051
+    second: fantasy-tileset_438
+  - first:
+      213: -849034020981500055
+    second: fantasy-tileset_439
+  - first:
+      213: -7268775572272571687
+    second: fantasy-tileset_440
+  - first:
+      213: 293234708714494695
+    second: fantasy-tileset_441
+  - first:
+      213: -7683185126532746597
+    second: fantasy-tileset_442
+  - first:
+      213: 4138172938233504473
+    second: fantasy-tileset_443
+  - first:
+      213: -6950159565668391427
+    second: fantasy-tileset_444
+  - first:
+      213: 8896971470869162859
+    second: fantasy-tileset_445
+  - first:
+      213: -2700541990939791349
+    second: fantasy-tileset_446
+  - first:
+      213: -7627430435319214289
+    second: fantasy-tileset_447
+  - first:
+      213: -7143643462162720264
+    second: fantasy-tileset_448
+  - first:
+      213: 2285852202217211959
+    second: fantasy-tileset_449
+  - first:
+      213: 7241546127347513612
+    second: fantasy-tileset_450
+  - first:
+      213: -2823206150049894397
+    second: fantasy-tileset_451
+  - first:
+      213: -8514852714096628428
+    second: fantasy-tileset_452
+  - first:
+      213: 3578169403038240824
+    second: fantasy-tileset_453
+  - first:
+      213: -1849426404074897508
+    second: fantasy-tileset_454
+  - first:
+      213: 938138770649914226
+    second: fantasy-tileset_455
+  - first:
+      213: -7038077295225381158
+    second: fantasy-tileset_456
+  - first:
+      213: -6438839753460674978
+    second: fantasy-tileset_457
+  - first:
+      213: -1405207852942898662
+    second: fantasy-tileset_458
+  - first:
+      213: 5447301753893142344
+    second: fantasy-tileset_459
+  - first:
+      213: 5146931028280861820
+    second: fantasy-tileset_460
+  - first:
+      213: -1410721525220282390
+    second: fantasy-tileset_461
+  - first:
+      213: -2924951171963126894
+    second: fantasy-tileset_462
+  - first:
+      213: -8706481950935635631
+    second: fantasy-tileset_463
+  - first:
+      213: -3477485030682965504
+    second: fantasy-tileset_464
+  - first:
+      213: -1061572878905568287
+    second: fantasy-tileset_465
+  - first:
+      213: 5573666696768229252
+    second: fantasy-tileset_466
+  - first:
+      213: 2739785913553678338
+    second: fantasy-tileset_467
+  - first:
+      213: -3861113067489899311
+    second: fantasy-tileset_468
+  - first:
+      213: -27987940757410381
+    second: fantasy-tileset_469
+  - first:
+      213: 325996959971671209
+    second: fantasy-tileset_470
+  - first:
+      213: -6529835835496471450
+    second: fantasy-tileset_471
+  - first:
+      213: -5736171093730539602
+    second: fantasy-tileset_472
+  - first:
+      213: 2374970907379496833
+    second: fantasy-tileset_473
+  - first:
+      213: -2895983444908141227
+    second: fantasy-tileset_474
+  - first:
+      213: 7298205186901293635
+    second: fantasy-tileset_475
+  - first:
+      213: 329479859283028265
+    second: fantasy-tileset_476
+  - first:
+      213: 2205616642039308699
+    second: fantasy-tileset_477
+  - first:
+      213: -4903152745182397015
+    second: fantasy-tileset_478
+  - first:
+      213: 4313765593175449484
+    second: fantasy-tileset_479
+  - first:
+      213: -4514073572229207998
+    second: fantasy-tileset_480
+  - first:
+      213: -9108668525536627626
+    second: fantasy-tileset_481
+  - first:
+      213: 6521775277757890535
+    second: fantasy-tileset_482
+  - first:
+      213: -3435804194920403932
+    second: fantasy-tileset_483
+  - first:
+      213: 3574000249549799692
+    second: fantasy-tileset_484
+  - first:
+      213: 3659166053038299324
+    second: fantasy-tileset_485
+  - first:
+      213: -6446751086145263798
+    second: fantasy-tileset_486
+  - first:
+      213: 3070614931179493593
+    second: fantasy-tileset_487
+  - first:
+      213: -8265801801313543045
+    second: fantasy-tileset_488
+  - first:
+      213: 1407168481770770456
+    second: fantasy-tileset_489
+  - first:
+      213: -7817266427189758964
+    second: fantasy-tileset_490
+  - first:
+      213: 1812258966292611161
+    second: fantasy-tileset_491
+  - first:
+      213: -2485825948500896283
+    second: fantasy-tileset_492
+  - first:
+      213: 3604821147711828955
+    second: fantasy-tileset_493
+  - first:
+      213: -3991411658664576839
+    second: fantasy-tileset_494
+  - first:
+      213: 357378579829960376
+    second: fantasy-tileset_495
+  - first:
+      213: 7029505987670161038
+    second: fantasy-tileset_496
+  - first:
+      213: 7588307454132969637
+    second: fantasy-tileset_497
+  - first:
+      213: -5581085249553822533
+    second: fantasy-tileset_498
+  - first:
+      213: -2905851652134030395
+    second: fantasy-tileset_499
+  - first:
+      213: 3934234729688031024
+    second: fantasy-tileset_500
+  - first:
+      213: -638424419855524339
+    second: fantasy-tileset_501
+  - first:
+      213: -6673538547005185429
+    second: fantasy-tileset_502
+  - first:
+      213: 4451315227766318601
+    second: fantasy-tileset_503
+  - first:
+      213: 2710801779464455005
+    second: fantasy-tileset_504
+  - first:
+      213: -6201511038834670545
+    second: fantasy-tileset_505
+  - first:
+      213: 7158099094567906167
+    second: fantasy-tileset_506
+  - first:
+      213: -8569117603597313237
+    second: fantasy-tileset_507
+  - first:
+      213: 6233288374916947423
+    second: fantasy-tileset_508
+  - first:
+      213: 7769112945538545697
+    second: fantasy-tileset_509
+  - first:
+      213: 8078613998129752780
+    second: fantasy-tileset_510
+  - first:
+      213: 3035930456991175676
+    second: fantasy-tileset_511
+  - first:
+      213: 8449320334510990099
+    second: fantasy-tileset_512
+  - first:
+      213: 8399364425396280422
+    second: fantasy-tileset_513
+  - first:
+      213: 6258401335266855595
+    second: fantasy-tileset_514
+  - first:
+      213: 2856454508499124527
+    second: fantasy-tileset_515
+  - first:
+      213: 6649867759579012442
+    second: fantasy-tileset_516
+  - first:
+      213: 5360948215092490285
+    second: fantasy-tileset_517
+  - first:
+      213: 8594273834583172073
+    second: fantasy-tileset_518
+  - first:
+      213: -1270112863426996194
+    second: fantasy-tileset_519
+  - first:
+      213: 33784023373584261
+    second: fantasy-tileset_520
+  - first:
+      213: -4544010732024696377
+    second: fantasy-tileset_521
+  - first:
+      213: -8565361383361529255
+    second: fantasy-tileset_522
+  - first:
+      213: 6881205536368269975
+    second: fantasy-tileset_523
+  - first:
+      213: -7660113997471543610
+    second: fantasy-tileset_524
+  - first:
+      213: 6806429917491214403
+    second: fantasy-tileset_525
+  - first:
+      213: -3382688164381684004
+    second: fantasy-tileset_526
+  - first:
+      213: -1937374452390714045
+    second: fantasy-tileset_527
+  - first:
+      213: -6672819604635681405
+    second: fantasy-tileset_528
+  - first:
+      213: -6045607041085315779
+    second: fantasy-tileset_529
+  - first:
+      213: 3248101400275123866
+    second: fantasy-tileset_530
+  - first:
+      213: 5518769304205218727
+    second: fantasy-tileset_531
+  - first:
+      213: -1559288570286128956
+    second: fantasy-tileset_532
+  - first:
+      213: -2298507099677727464
+    second: fantasy-tileset_533
+  - first:
+      213: 653278872862497453
+    second: fantasy-tileset_534
+  - first:
+      213: -2729909466869510856
+    second: fantasy-tileset_535
+  - first:
+      213: -8988607134187094695
+    second: fantasy-tileset_536
+  - first:
+      213: -3307964300624473609
+    second: fantasy-tileset_537
+  - first:
+      213: -1794776259584208372
+    second: fantasy-tileset_538
+  - first:
+      213: 6043412445715718534
+    second: fantasy-tileset_539
+  - first:
+      213: -7693839800070041090
+    second: fantasy-tileset_540
+  - first:
+      213: 5753491519208775946
+    second: fantasy-tileset_541
+  - first:
+      213: 1945728088613742340
+    second: fantasy-tileset_542
+  - first:
+      213: 5758596421000490948
+    second: fantasy-tileset_543
+  - first:
+      213: -3917426212815412983
+    second: fantasy-tileset_544
+  - first:
+      213: 2990336760582696289
+    second: fantasy-tileset_545
+  - first:
+      213: 5689447752988419440
+    second: fantasy-tileset_546
+  - first:
+      213: 6385446362244318253
+    second: fantasy-tileset_547
+  - first:
+      213: -7983345544490951629
+    second: fantasy-tileset_548
+  - first:
+      213: 409073484230908667
+    second: fantasy-tileset_549
+  - first:
+      213: -3891791936030249528
+    second: fantasy-tileset_550
+  - first:
+      213: -3079869663349989970
+    second: fantasy-tileset_551
+  - first:
+      213: -1764442231320291335
+    second: fantasy-tileset_552
+  - first:
+      213: -8742722959417866709
+    second: fantasy-tileset_553
+  - first:
+      213: -8071364094691854257
+    second: fantasy-tileset_554
+  - first:
+      213: 192260084652924787
+    second: fantasy-tileset_555
+  - first:
+      213: -5433234616102365849
+    second: fantasy-tileset_556
+  - first:
+      213: -697629967492249098
+    second: fantasy-tileset_557
+  - first:
+      213: 1886790481668874150
+    second: fantasy-tileset_558
+  - first:
+      213: -3190538958272818095
+    second: fantasy-tileset_559
+  - first:
+      213: -2611808044067997654
+    second: fantasy-tileset_560
+  - first:
+      213: 4727537922683325990
+    second: fantasy-tileset_561
+  - first:
+      213: -6662010151020531653
+    second: fantasy-tileset_562
+  - first:
+      213: -4105864851259563997
+    second: fantasy-tileset_563
+  - first:
+      213: -358455444191762785
+    second: fantasy-tileset_564
+  - first:
+      213: -2905393024646237208
+    second: fantasy-tileset_565
+  - first:
+      213: -9025733143496238656
+    second: fantasy-tileset_566
+  - first:
+      213: -3806563559072517702
+    second: fantasy-tileset_567
+  - first:
+      213: 8015962852319942545
+    second: fantasy-tileset_568
+  - first:
+      213: 2350573338970277283
+    second: fantasy-tileset_569
+  - first:
+      213: -4862388717911108458
+    second: fantasy-tileset_570
+  - first:
+      213: -631493161580646468
+    second: fantasy-tileset_571
+  - first:
+      213: -7547808718136225671
+    second: fantasy-tileset_572
+  - first:
+      213: 7470035818199638583
+    second: fantasy-tileset_573
+  - first:
+      213: 4913706802547520420
+    second: fantasy-tileset_574
+  - first:
+      213: 7661686636125561195
+    second: fantasy-tileset_575
+  - first:
+      213: -1094786504774287427
+    second: fantasy-tileset_576
+  - first:
+      213: -1502396655811090780
+    second: fantasy-tileset_577
+  - first:
+      213: 6436765354109682344
+    second: fantasy-tileset_578
+  - first:
+      213: 1748579457538976466
+    second: fantasy-tileset_579
+  - first:
+      213: -7524704159250345345
+    second: fantasy-tileset_580
+  - first:
+      213: 7415869712980120100
+    second: fantasy-tileset_581
+  - first:
+      213: -6931836517379642344
+    second: fantasy-tileset_582
+  - first:
+      213: 6249329146287938743
+    second: fantasy-tileset_583
+  - first:
+      213: 1275282878757346715
+    second: fantasy-tileset_584
+  - first:
+      213: -4716830559214765742
+    second: fantasy-tileset_585
+  - first:
+      213: -5186254431247120806
+    second: fantasy-tileset_586
+  - first:
+      213: 5791141050846897025
+    second: fantasy-tileset_587
+  - first:
+      213: 4712349795103230093
+    second: fantasy-tileset_588
+  - first:
+      213: 358291399591978754
+    second: fantasy-tileset_589
+  - first:
+      213: -377398151437616773
+    second: fantasy-tileset_590
+  - first:
+      213: 597136372528720371
+    second: fantasy-tileset_591
+  - first:
+      213: 7178394056680234907
+    second: fantasy-tileset_592
+  - first:
+      213: 4687433582354884323
+    second: fantasy-tileset_593
+  - first:
+      213: -6158691142058129901
+    second: fantasy-tileset_594
+  - first:
+      213: 2059023431085980559
+    second: fantasy-tileset_595
+  - first:
+      213: 7178327289930429620
+    second: fantasy-tileset_596
+  - first:
+      213: 4988197577298065380
+    second: fantasy-tileset_597
+  - first:
+      213: -8728425006139959227
+    second: fantasy-tileset_598
+  - first:
+      213: 5295469662080659198
+    second: fantasy-tileset_599
+  - first:
+      213: 6594801106069732976
+    second: fantasy-tileset_600
+  - first:
+      213: 18280923533690798
+    second: fantasy-tileset_601
+  - first:
+      213: -3757954036255840636
+    second: fantasy-tileset_602
+  - first:
+      213: 1662950609055532055
+    second: fantasy-tileset_603
+  - first:
+      213: -9089014035933203967
+    second: fantasy-tileset_604
+  - first:
+      213: -7873364498426021731
+    second: fantasy-tileset_605
+  - first:
+      213: -1257222066886726566
+    second: fantasy-tileset_606
+  - first:
+      213: -5728728865133881943
+    second: fantasy-tileset_607
+  - first:
+      213: 8416349193748760036
+    second: fantasy-tileset_608
+  - first:
+      213: -2506775775433676588
+    second: fantasy-tileset_609
+  - first:
+      213: 1135831567111079555
+    second: fantasy-tileset_610
+  - first:
+      213: -3111665372684575336
+    second: fantasy-tileset_611
+  - first:
+      213: 2952721253130064716
+    second: fantasy-tileset_612
+  - first:
+      213: 3398281480354699843
+    second: fantasy-tileset_613
+  - first:
+      213: -432651410064924371
+    second: fantasy-tileset_614
+  - first:
+      213: -956335723639206291
+    second: fantasy-tileset_615
+  - first:
+      213: -8612986234682971930
+    second: fantasy-tileset_616
+  - first:
+      213: -5182605129390551907
+    second: fantasy-tileset_617
+  - first:
+      213: 2552495241428681145
+    second: fantasy-tileset_618
+  - first:
+      213: 3392815884092904525
+    second: fantasy-tileset_619
+  - first:
+      213: -4873516238183492983
+    second: fantasy-tileset_620
+  - first:
+      213: 6110667120105621606
+    second: fantasy-tileset_621
+  - first:
+      213: 3432420801158187017
+    second: fantasy-tileset_622
+  - first:
+      213: 8031936415149427965
+    second: fantasy-tileset_623
+  - first:
+      213: -3053064333629445148
+    second: fantasy-tileset_624
+  - first:
+      213: -2660413449531983438
+    second: fantasy-tileset_625
+  - first:
+      213: 6056998777646663564
+    second: fantasy-tileset_626
+  - first:
+      213: 7552784036121166933
+    second: fantasy-tileset_627
+  - first:
+      213: -2144678981954399356
+    second: fantasy-tileset_628
+  - first:
+      213: 1243560327950693460
+    second: fantasy-tileset_629
+  - first:
+      213: 6460142842842119740
+    second: fantasy-tileset_630
+  - first:
+      213: -7617861590176638648
+    second: fantasy-tileset_631
+  - first:
+      213: 8272909208051600070
+    second: fantasy-tileset_632
+  - first:
+      213: -2561775181810711279
+    second: fantasy-tileset_633
+  - first:
+      213: 2195345350083202336
+    second: fantasy-tileset_634
+  - first:
+      213: -288449343685632834
+    second: fantasy-tileset_635
+  - first:
+      213: 4339820469271637379
+    second: fantasy-tileset_636
+  - first:
+      213: -7760273415287540554
+    second: fantasy-tileset_637
+  - first:
+      213: 1898682468917154979
+    second: fantasy-tileset_638
+  - first:
+      213: 3809000944505856194
+    second: fantasy-tileset_639
+  - first:
+      213: 4027901932094788333
+    second: fantasy-tileset_640
+  - first:
+      213: 333572319933668015
+    second: fantasy-tileset_641
+  - first:
+      213: -1146175718725233552
+    second: fantasy-tileset_642
+  - first:
+      213: -4478263755858147534
+    second: fantasy-tileset_643
+  - first:
+      213: -1016696978467097785
+    second: fantasy-tileset_644
+  - first:
+      213: -5481698774574386564
+    second: fantasy-tileset_645
+  - first:
+      213: 3627979473050659210
+    second: fantasy-tileset_646
+  - first:
+      213: -154812634574117965
+    second: fantasy-tileset_647
+  - first:
+      213: -5054893211842849153
+    second: fantasy-tileset_648
+  - first:
+      213: -5280206471437546423
+    second: fantasy-tileset_649
+  - first:
+      213: 6699072328995516595
+    second: fantasy-tileset_650
+  - first:
+      213: 7465467413517462423
+    second: fantasy-tileset_651
+  - first:
+      213: -879830017188263006
+    second: fantasy-tileset_652
+  - first:
+      213: -2755455000779213784
+    second: fantasy-tileset_653
+  - first:
+      213: -4648424310297073723
+    second: fantasy-tileset_654
+  - first:
+      213: 4202349935136158413
+    second: fantasy-tileset_655
+  - first:
+      213: -3958923555724688470
+    second: fantasy-tileset_656
+  - first:
+      213: -4038737577865517611
+    second: fantasy-tileset_657
+  - first:
+      213: -8766859767000795723
+    second: fantasy-tileset_658
+  - first:
+      213: -2713851700051649498
+    second: fantasy-tileset_659
+  - first:
+      213: -3605421382683412886
+    second: fantasy-tileset_660
+  - first:
+      213: -6767979703395887919
+    second: fantasy-tileset_661
+  - first:
+      213: 4721922991742058202
+    second: fantasy-tileset_662
+  - first:
+      213: 7316344237766229086
+    second: fantasy-tileset_663
+  - first:
+      213: -4180749864954699061
+    second: fantasy-tileset_664
+  - first:
+      213: 4751631259792763640
+    second: fantasy-tileset_665
+  - first:
+      213: 5673192806709268208
+    second: fantasy-tileset_666
+  - first:
+      213: 177143249804696531
+    second: fantasy-tileset_667
+  - first:
+      213: 5092259508629463997
+    second: fantasy-tileset_668
+  - first:
+      213: 5977574667184912075
+    second: fantasy-tileset_669
+  - first:
+      213: 2672587775996205320
+    second: fantasy-tileset_670
+  - first:
+      213: -4351119638377770495
+    second: fantasy-tileset_671
+  - first:
+      213: -3280896596534592732
+    second: fantasy-tileset_672
+  - first:
+      213: 6473231176627336139
+    second: fantasy-tileset_673
+  - first:
+      213: -7560473776174613098
+    second: fantasy-tileset_674
+  - first:
+      213: 9014058295752274283
+    second: fantasy-tileset_675
+  - first:
+      213: -3765256121566348632
+    second: fantasy-tileset_676
+  - first:
+      213: 1144320345191260285
+    second: fantasy-tileset_677
+  - first:
+      213: 4844125267232152999
+    second: fantasy-tileset_678
+  - first:
+      213: -8972538144902207711
+    second: fantasy-tileset_679
+  - first:
+      213: 2723949157453400050
+    second: fantasy-tileset_680
+  - first:
+      213: -4427020745972922553
+    second: fantasy-tileset_681
+  - first:
+      213: 4368521650283758580
+    second: fantasy-tileset_682
+  - first:
+      213: 8162423115072777057
+    second: fantasy-tileset_683
+  - first:
+      213: -5873404421994089838
+    second: fantasy-tileset_684
+  - first:
+      213: -2232219195810909158
+    second: fantasy-tileset_685
+  - first:
+      213: 7059666123343990127
+    second: fantasy-tileset_686
+  - first:
+      213: 557173346469582235
+    second: fantasy-tileset_687
+  - first:
+      213: -8001274682220161630
+    second: fantasy-tileset_688
+  - first:
+      213: -875622702957174845
+    second: fantasy-tileset_689
+  - first:
+      213: -1196777160845718968
+    second: fantasy-tileset_690
+  - first:
+      213: -388527741871598529
+    second: fantasy-tileset_691
+  - first:
+      213: 824402409519251214
+    second: fantasy-tileset_692
+  - first:
+      213: -4432470209679035130
+    second: fantasy-tileset_693
+  - first:
+      213: 5528614951854589596
+    second: fantasy-tileset_694
+  - first:
+      213: 2842355959841168303
+    second: fantasy-tileset_695
+  - first:
+      213: -3071955684751499890
+    second: fantasy-tileset_696
+  - first:
+      213: 987405089921424058
+    second: fantasy-tileset_697
+  - first:
+      213: 3674323521875217189
+    second: fantasy-tileset_698
+  - first:
+      213: -4005350075779665885
+    second: fantasy-tileset_699
+  - first:
+      213: -8534907292121421922
+    second: fantasy-tileset_700
+  - first:
+      213: -3472725445959166553
+    second: fantasy-tileset_701
+  - first:
+      213: 1010795305566296992
+    second: fantasy-tileset_702
+  - first:
+      213: 8779319718452328953
+    second: fantasy-tileset_703
+  - first:
+      213: 6699385481299115804
+    second: fantasy-tileset_704
+  - first:
+      213: -8493884760403685291
+    second: fantasy-tileset_705
+  - first:
+      213: -6435368990170236466
+    second: fantasy-tileset_706
+  - first:
+      213: -6104019263281729749
+    second: fantasy-tileset_707
+  - first:
+      213: -5829018770596496827
+    second: fantasy-tileset_708
+  - first:
+      213: -31295322976178226
+    second: fantasy-tileset_709
+  - first:
+      213: 2238233868271881248
+    second: fantasy-tileset_710
+  - first:
+      213: -4050122993822187539
+    second: fantasy-tileset_711
+  - first:
+      213: 1668791009403763020
+    second: fantasy-tileset_712
+  - first:
+      213: -5685403291446017543
+    second: fantasy-tileset_713
+  - first:
+      213: 7819214654407998685
+    second: fantasy-tileset_714
+  - first:
+      213: -7844503104214586892
+    second: fantasy-tileset_715
+  - first:
+      213: -8285551381793534422
+    second: fantasy-tileset_716
+  - first:
+      213: -8255967282820220073
+    second: fantasy-tileset_717
+  - first:
+      213: 7450023253659776800
+    second: fantasy-tileset_718
+  - first:
+      213: 7297108058872185078
+    second: fantasy-tileset_719
+  - first:
+      213: 1986725457957208608
+    second: fantasy-tileset_720
+  - first:
+      213: -3548144365381833256
+    second: fantasy-tileset_721
+  - first:
+      213: -7181122580048720036
+    second: fantasy-tileset_722
+  - first:
+      213: 1561233801354057214
+    second: fantasy-tileset_723
+  - first:
+      213: -8650612193225131599
+    second: fantasy-tileset_724
+  - first:
+      213: -727305705253444253
+    second: fantasy-tileset_725
+  - first:
+      213: -8384607658221619403
+    second: fantasy-tileset_726
+  - first:
+      213: -5526176253051134068
+    second: fantasy-tileset_727
+  - first:
+      213: 2023346186250663699
+    second: fantasy-tileset_728
+  - first:
+      213: -7227085555629806318
+    second: fantasy-tileset_729
+  - first:
+      213: 3494822621211544642
+    second: fantasy-tileset_730
+  - first:
+      213: -2892288144709020323
+    second: fantasy-tileset_731
+  - first:
+      213: 3934546420859853230
+    second: fantasy-tileset_732
+  - first:
+      213: -650576976254056622
+    second: fantasy-tileset_733
+  - first:
+      213: -7519073910443621628
+    second: fantasy-tileset_734
+  - first:
+      213: -1039380589014640244
+    second: fantasy-tileset_735
+  - first:
+      213: -7204262732976073376
+    second: fantasy-tileset_736
+  - first:
+      213: -8183410524513456881
+    second: fantasy-tileset_737
+  - first:
+      213: 5393454952435780720
+    second: fantasy-tileset_738
+  - first:
+      213: 2254082526112657395
+    second: fantasy-tileset_739
+  - first:
+      213: -3250728344332531176
+    second: fantasy-tileset_740
+  - first:
+      213: -257073806613885485
+    second: fantasy-tileset_741
+  - first:
+      213: 1660109638964477242
+    second: fantasy-tileset_742
+  - first:
+      213: 5812397227246015359
+    second: fantasy-tileset_743
+  - first:
+      213: 826777328296607346
+    second: fantasy-tileset_744
+  - first:
+      213: 6038203310800533412
+    second: fantasy-tileset_745
+  - first:
+      213: 9092020028338540293
+    second: fantasy-tileset_746
+  - first:
+      213: -5109561328859580946
+    second: fantasy-tileset_747
+  - first:
+      213: 3991987210303657091
+    second: fantasy-tileset_748
+  - first:
+      213: 1602246014533348927
+    second: fantasy-tileset_749
+  - first:
+      213: 4506138742643364118
+    second: fantasy-tileset_750
+  - first:
+      213: -1355436050229070363
+    second: fantasy-tileset_751
+  - first:
+      213: 2410091261300629058
+    second: fantasy-tileset_752
+  - first:
+      213: -7598407245423124840
+    second: fantasy-tileset_753
+  - first:
+      213: -2600746531961785735
+    second: fantasy-tileset_754
+  - first:
+      213: 1172359130752817539
+    second: fantasy-tileset_755
+  - first:
+      213: -1435642224551816319
+    second: fantasy-tileset_756
+  - first:
+      213: -5570781694599978073
+    second: fantasy-tileset_757
+  - first:
+      213: -2598548402834490463
+    second: fantasy-tileset_758
+  - first:
+      213: -8852874989234859261
+    second: fantasy-tileset_759
+  - first:
+      213: -7403605792373376196
+    second: fantasy-tileset_760
+  - first:
+      213: -2476158384320800817
+    second: fantasy-tileset_761
+  - first:
+      213: 3502224642458955864
+    second: fantasy-tileset_762
+  - first:
+      213: -5482019957299210727
+    second: fantasy-tileset_763
+  - first:
+      213: 3636905121129525798
+    second: fantasy-tileset_764
+  - first:
+      213: 8908628265711188568
+    second: fantasy-tileset_765
+  - first:
+      213: 4151986284005543492
+    second: fantasy-tileset_766
+  - first:
+      213: 4431748474572554876
+    second: fantasy-tileset_767
+  - first:
+      213: 762351690609780993
+    second: fantasy-tileset_768
+  - first:
+      213: 5616604945394821045
+    second: fantasy-tileset_769
+  - first:
+      213: 7254466710984327572
+    second: fantasy-tileset_770
+  - first:
+      213: 322125857084388473
+    second: fantasy-tileset_771
+  - first:
+      213: 961332942526908423
+    second: fantasy-tileset_772
+  - first:
+      213: 2408047699326551002
+    second: fantasy-tileset_773
+  - first:
+      213: 4652893186967553696
+    second: fantasy-tileset_774
+  - first:
+      213: -355903869054470762
+    second: fantasy-tileset_775
+  - first:
+      213: 3322301374385064790
+    second: fantasy-tileset_776
+  - first:
+      213: 3023125084845357359
+    second: fantasy-tileset_777
+  - first:
+      213: 514240159575856733
+    second: fantasy-tileset_778
+  - first:
+      213: -5944935873670303274
+    second: fantasy-tileset_779
+  - first:
+      213: 4118326219927194901
+    second: fantasy-tileset_780
+  - first:
+      213: -2018251830550764240
+    second: fantasy-tileset_781
+  - first:
+      213: 6607108978392341880
+    second: fantasy-tileset_782
+  - first:
+      213: 1198211485873644529
+    second: fantasy-tileset_783
+  - first:
+      213: -3012309380864512722
+    second: fantasy-tileset_784
+  - first:
+      213: 691111598538384082
+    second: fantasy-tileset_785
+  - first:
+      213: 1503685895266472067
+    second: fantasy-tileset_786
+  - first:
+      213: -3106404190135030755
+    second: fantasy-tileset_787
+  - first:
+      213: 5281122064234519784
+    second: fantasy-tileset_788
+  - first:
+      213: 646159746120744399
+    second: fantasy-tileset_789
+  - first:
+      213: 5950451090265299989
+    second: fantasy-tileset_790
+  - first:
+      213: -8484594778032776355
+    second: fantasy-tileset_791
+  - first:
+      213: -3842565304996693037
+    second: fantasy-tileset_792
+  - first:
+      213: -1282384483249756670
+    second: fantasy-tileset_793
+  - first:
+      213: -8153477484734783764
+    second: fantasy-tileset_794
+  - first:
+      213: -4889681896730155797
+    second: fantasy-tileset_795
+  - first:
+      213: -6019463588578301129
+    second: fantasy-tileset_796
+  - first:
+      213: -6134396999060619046
+    second: fantasy-tileset_797
+  - first:
+      213: -1868257217621148543
+    second: fantasy-tileset_798
+  - first:
+      213: 6441315960431901124
+    second: fantasy-tileset_799
+  - first:
+      213: -1883358245483205057
+    second: fantasy-tileset_800
+  - first:
+      213: 3111405067704478352
+    second: fantasy-tileset_801
+  - first:
+      213: 3080626413830884055
+    second: fantasy-tileset_802
+  - first:
+      213: 1130840499208403524
+    second: fantasy-tileset_803
+  - first:
+      213: -4334460844233496078
+    second: fantasy-tileset_804
+  - first:
+      213: 8129715376281600810
+    second: fantasy-tileset_805
+  - first:
+      213: -6266080394368394190
+    second: fantasy-tileset_806
+  - first:
+      213: -8488037980402806948
+    second: fantasy-tileset_807
+  - first:
+      213: -5453378904370911049
+    second: fantasy-tileset_808
+  - first:
+      213: 1745860553053449554
+    second: fantasy-tileset_809
+  - first:
+      213: -8728195534258792495
+    second: fantasy-tileset_810
+  - first:
+      213: -5829736261568599898
+    second: fantasy-tileset_811
+  - first:
+      213: 7023934584683753733
+    second: fantasy-tileset_812
+  - first:
+      213: 7157737665195115070
+    second: fantasy-tileset_813
+  - first:
+      213: 3750898750803871545
+    second: fantasy-tileset_814
+  - first:
+      213: 5452547272012607653
+    second: fantasy-tileset_815
+  - first:
+      213: 5007383561190214612
+    second: fantasy-tileset_816
+  - first:
+      213: 4967446944070903921
+    second: fantasy-tileset_817
+  - first:
+      213: -4828979156995727283
+    second: fantasy-tileset_818
+  - first:
+      213: 1637832286876486567
+    second: fantasy-tileset_819
+  - first:
+      213: -4151147579570940645
+    second: fantasy-tileset_820
+  - first:
+      213: -3171560241540332084
+    second: fantasy-tileset_821
+  - first:
+      213: 1563649478299228909
+    second: fantasy-tileset_822
+  - first:
+      213: -6568704382746995541
+    second: fantasy-tileset_823
+  - first:
+      213: -463937155177833646
+    second: fantasy-tileset_824
+  - first:
+      213: 1975365888789917368
+    second: fantasy-tileset_825
+  - first:
+      213: 943908181330732343
+    second: fantasy-tileset_826
+  - first:
+      213: -930414462671918535
+    second: fantasy-tileset_827
+  - first:
+      213: -4925982043765635987
+    second: fantasy-tileset_828
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fantasy-tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72409c4a039fb13b0800000000000000
+      internalID: -5540560929230879705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f93f4579a75a980800000000000000
+      internalID: -8528275528972263596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d337b39a21118c0800000000000000
+      internalID: -4030419673463702229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5f8ea3fbb023b60800000000000000
+      internalID: 7724249226848826837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7d701739632ff50800000000000000
+      internalID: 6913648384851564489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110fd522118367a10800000000000000
+      internalID: 1906773138480164881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aac6a718db1d5e0800000000000000
+      internalID: -1886518405089154510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 800
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f789f575160eee0800000000000000
+      internalID: -1233879270005637309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a733f26c68a97d0800000000000000
+      internalID: -2910866023388054973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15239c5b3ec027ea0800000000000000
+      internalID: -5876620391618104751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd99aa9538b10d4b0800000000000000
+      internalID: -5417800100767688229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0319751acd09b60800000000000000
+      internalID: 7750937544221602005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d777453e7c87dfd00800000000000000
+      internalID: 1008094691508647805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00930dac9f702d240800000000000000
+      internalID: 4814919721043376384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85714213483aea4a0800000000000000
+      internalID: -6580142217386256552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_15
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 768
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577faacd2fdbc8f30800000000000000
+      internalID: 4579243771910879093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e9a58aafd27ab0800000000000000
+      internalID: -5011697511830001324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5792970e5f2ac1460800000000000000
+      internalID: 7213819880057416053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46e9293a0b69d2a0800000000000000
+      internalID: -6712216077966121394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb3cf7c12178ef80800000000000000
+      internalID: -8077081541785928779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b769b5742bcb94c40800000000000000
+      internalID: 5497132294069786235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f47f11406f1c63b0800000000000000
+      internalID: -5518000945165798151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab1586b1ec4d310800000000000000
+      internalID: 1428993598892915318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 736
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7db69554cd07e820800000000000000
+      internalID: 2947339618037972350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f39d32ef2fffc620800000000000000
+      internalID: 2796734474744599544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f9bea3472d7e440800000000000000
+      internalID: 4965168510845820712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c51effd4df9e3cd0800000000000000
+      internalID: -2576446200169491007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda0a868eafddf790800000000000000
+      internalID: -7494588264200140068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ff5b206f0fd6ea0800000000000000
+      internalID: -5877776999250526428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb90463938c9b6290800000000000000
+      internalID: -7896045432736577089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b274a94c2cd201a0800000000000000
+      internalID: -6844666400877546826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c819a02df7123f0800000000000000
+      internalID: -927319508164441075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69030b87309bcad00800000000000000
+      internalID: 985365843048149142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a9111d8f5f51d20800000000000000
+      internalID: 3248773155225967244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa5c81ff9a46b210800000000000000
+      internalID: 1348347189256805029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7f638fc8ca1f0f0800000000000000
+      internalID: -1084896313759828054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1be4175cc287230800000000000000
+      internalID: 3636705925622837700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a328db1ce522b80800000000000000
+      internalID: -8421064167028278737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe204fbbcd423f6a0800000000000000
+      internalID: -6416744513608088849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 672
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c13d0dbf9f8a870800000000000000
+      internalID: 8694473940574346283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90579f3187456e940800000000000000
+      internalID: 5325036484120114441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea98e31a3d81c4590800000000000000
+      internalID: -7688743166605882962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b12bf34002449d0800000000000000
+      internalID: -2791070666442269920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_43
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2cdce61d3bc8890800000000000000
+      internalID: -7454385571116498233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b900ac4e0229cb170800000000000000
+      internalID: 8195586091882512539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4c543e915837040800000000000000
+      internalID: 4644201986982790383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd8e24afb5ccf460800000000000000
+      internalID: 7276908524807818707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 640
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc2def586ee582a0800000000000000
+      internalID: -6735715535609320245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce03418567e95a20800000000000000
+      internalID: 3051724645666590405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410d84839f945290800000000000000
+      internalID: -7902515990195535552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f699dea2e052ec0800000000000000
+      internalID: -3592449550220431594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c861aa71e44bbce0800000000000000
+      internalID: -1388440324897937209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2d18239715f6f40800000000000000
+      internalID: 5723883232391451346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241114f9c2d10b930800000000000000
+      internalID: 4156854533550575938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272a78fd546d0080800000000000000
+      internalID: -9219602507394046171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfafe6302f38248c0800000000000000
+      internalID: -4016502842198131973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af22b19a4b15be90800000000000000
+      internalID: -7010667237846405213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a115e4a95aeb410800000000000000
+      internalID: 1494814208491068031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943ca89f6405975d0800000000000000
+      internalID: -3064329805684358327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1269c674306d30f10800000000000000
+      internalID: 2234865149677442593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66dfeea9e7ba4d80800000000000000
+      internalID: -8265591951794907537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5402c1bd22df6f250800000000000000
+      internalID: 5978243881527681093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48fea23a6aa29b10800000000000000
+      internalID: 1986837758717392971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef658784921f2b700800000000000000
+      internalID: 554770863731791614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3b427d16cc92fc0800000000000000
+      internalID: -3519056913219931219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943f2e23fa92f1570800000000000000
+      internalID: 8439510059165348681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f47cf853ce9e10800000000000000
+      internalID: 2206415654418183135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e200d89c891119670800000000000000
+      internalID: 8543629316012703790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a24042e8a8adb710800000000000000
+      internalID: 1710708876774490792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0dc79fa071fba70800000000000000
+      internalID: 8844813529081762032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c0d6bd8823be260800000000000000
+      internalID: 7127846398622239797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b486586291a23f80800000000000000
+      internalID: -8128256727262526282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276119cf47945c6c0800000000000000
+      internalID: -4123809116985420174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a17aff40867044a0800000000000000
+      internalID: -6611153959510183514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9770ea0ad90bf2600800000000000000
+      internalID: 445769079185082233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10440f891906af5d0800000000000000
+      internalID: -3028001621000829951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9338dbd7f076970800000000000000
+      internalID: 8747977833915300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc00bc6856ec45640800000000000000
+      internalID: 5067902416147120332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b441097972f39b210800000000000000
+      internalID: 1349179002653250635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc1f98c4cb5d8e00800000000000000
+      internalID: 1048595188984782034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fbcf7c05cd47fb0800000000000000
+      internalID: -4650850275656155338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa7babdc19a04e0800000000000000
+      internalID: -2014637570507952168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f902e1a7ce6e2bd50800000000000000
+      internalID: 6751712694717259935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d891b87e875230800000000000000
+      internalID: 3627524673897027508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7922b05afe9b1e0800000000000000
+      internalID: -2181449052348835929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c0689f6a2738e0800000000000000
+      internalID: -1713854474404969562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1039e3e302601f0800000000000000
+      internalID: -1079139608998772312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d98a5fcbdcb5860800000000000000
+      internalID: 7519830214284189054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa1cead37b335170800000000000000
+      internalID: 8165935918133025528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b119df8f886cb60800000000000000
+      internalID: 7766045210434411402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_90
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d066d7e529c6ea90800000000000000
+      internalID: -7284914182584639275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8111c0e1517a21cd0800000000000000
+      internalID: -2588823126644354792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430d01ee9ea05e110800000000000000
+      internalID: 1289448868149252148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d484d779d016545d0800000000000000
+      internalID: -3078948059233826739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9b329ef1bfbce30800000000000000
+      internalID: 4524986365097785791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8152b90123a4773e0800000000000000
+      internalID: -2056093125983918824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd56a0002ed2fdf0800000000000000
+      internalID: -147811608718582352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e861b202496c3b0800000000000000
+      internalID: -5492539829648978348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f70fdb6ef4522b70800000000000000
+      internalID: 8872747667581503473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5478eac33a345a8a0800000000000000
+      internalID: -6294550535803599035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207853bc6749fc160800000000000000
+      internalID: 7048015179794450178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c4a5d6587464ef0800000000000000
+      internalID: -124333301315253110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53396873abe053060800000000000000
+      internalID: 6932463394365018933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5ab6be3f1f4b190800000000000000
+      internalID: -7947461412473035273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7469d4f554ebb1600800000000000000
+      internalID: 440154593759696455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_105
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e48a6221d5a18cd0800000000000000
+      internalID: -2557580795725576988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4503e45ae946b70800000000000000
+      internalID: 8891405997154784441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_107
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cee2565f824c260800000000000000
+      internalID: 7116858345581898841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4193f6126de7420800000000000000
+      internalID: 2629774671519225080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74821f5126aba9390800000000000000
+      internalID: -7810725673283016633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2d054361414a0a0800000000000000
+      internalID: -6871345045860986165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd10033ab7972330800000000000000
+      internalID: 3686081646001397199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8c149596de70430800000000000000
+      internalID: 3749226251534059730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd73b66d03436d140800000000000000
+      internalID: 4744036641841821663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb4485c3cae2a230800000000000000
+      internalID: 3648736774676827121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20824c2cb6e4c78b0800000000000000
+      internalID: -5153157648882587646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a682001b3206c8f60800000000000000
+      internalID: 8037905141359192170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2121fe942d59e7840800000000000000
+      internalID: 5223777348212429330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a80e22ab0de18080800000000000000
+      internalID: -9186801130637752152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd6f9212faab0d20800000000000000
+      internalID: 3245875913121820106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65afc3bf37323320800000000000000
+      internalID: 2536150286902207853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f191c42cb313450800000000000000
+      internalID: 6066695878731177743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef16068ff881f72a0800000000000000
+      internalID: -6737639510896516610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547ac5c3206e38a50800000000000000
+      internalID: 6522309582639638341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb9f9bde274fc70800000000000000
+      internalID: 9003947920373432278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6249cccf87d68970800000000000000
+      internalID: 8756923538084545134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24a089edd6da7c80800000000000000
+      internalID: -8324104712647302102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aae8fe95be74cbb0800000000000000
+      internalID: -4916665574660445534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c881c756c9cdd7a0800000000000000
+      internalID: -6350698045809522494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cf7abe15a553ce0800000000000000
+      internalID: -1426134399100388267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76b95e0644a58920800000000000000
+      internalID: 2991978148252989052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89427f117f3736260800000000000000
+      internalID: 7089637743406818456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d49c12c99faf610800000000000000
+      internalID: 1655910261989133638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35bf32591e2ca440800000000000000
+      internalID: 4948380776862299451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec060d726d2ef1e60800000000000000
+      internalID: 7935310477868949710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b91bf7d593ceca90800000000000000
+      internalID: -7291675698325153351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8cd5801730c8f40800000000000000
+      internalID: 5731960209742350554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_137
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c270a739e2c8fc0800000000000000
+      internalID: -3491364400176616396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afd244c28ba976f0800000000000000
+      internalID: -686328890070474844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_139
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc20cbb779f879a90800000000000000
+      internalID: -7307213989606587699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4168e392477789ce0800000000000000
+      internalID: -1398236343506663916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_141
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770b39448acc2b000800000000000000
+      internalID: 50327568931598455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_142
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c72949bd40200d0800000000000000
+      internalID: -3458196222730142705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_143
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26999a10ad1f6a420800000000000000
+      internalID: 2641064150132431202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47935026e5e909220800000000000000
+      internalID: 2490664722144508276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb3b6f03cad3fec0800000000000000
+      internalID: -3534240751243543603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f93d060d3c58c70800000000000000
+      internalID: 8972793132350676798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8f8197acd3bab0800000000000000
+      internalID: -4993404949563994536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf52a74a1b0fd080800000000000000
+      internalID: -9160590909549420617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e166df9fc812454f0800000000000000
+      internalID: -841010341038168546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3958e81331da780800000000000000
+      internalID: -8670252604052892731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c024047d38ed120800000000000000
+      internalID: 2440533008600665230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef40b29a73faa360800000000000000
+      internalID: 7181820263568265194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20f0e1ca2d18f9c0800000000000000
+      internalID: -3893329808383217621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4761323d89265f0800000000000000
+      internalID: -764880954105367302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_155
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d92652e96979960800000000000000
+      internalID: 7608715701441961317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4dc3fcfbf331300800000000000000
+      internalID: 221590899719460002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e0b833561178fc0800000000000000
+      internalID: -3492803859648409994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_158
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3a9eaafc5666f90800000000000000
+      internalID: -6960764231454448665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_159
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1216713a373ffffc0800000000000000
+      internalID: -3458778310814244575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564092cf0a417080800000000000000
+      internalID: -9191483932937271722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394d60120486ea840800000000000000
+      internalID: 5237238041319756947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2f7404d04d8ce90800000000000000
+      internalID: -7005116066996686081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1764f86546291f430800000000000000
+      internalID: 3814991319006135921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcebfac06e82bb90800000000000000
+      internalID: -7227557905602712326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf38588c1aa887a0800000000000000
+      internalID: -6374658233019645987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c94a84bd81102f0800000000000000
+      internalID: -1008497511458628560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8447ca023ec2be90800000000000000
+      internalID: -7011314955537922932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd35c20b590344cb0800000000000000
+      internalID: -4880722676698819621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9251b58475444a90800000000000000
+      internalID: -7330657926690811238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_170
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad084d6d716adc10800000000000000
+      internalID: 2079081369317150121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_171
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec80393e8558fe530800000000000000
+      internalID: 3886471620265707726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_172
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f720653c76371ca0800000000000000
+      internalID: -6046304067622262798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64156cff01c7337b0800000000000000
+      internalID: -5245712728503987898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_174
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1652125700722e0800000000000000
+      internalID: -2150749793978850839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_175
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4aff8763b5300e0800000000000000
+      internalID: -2304898294767180636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e708c3b40c1360800000000000000
+      internalID: 7141588279304380645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a466828bb8767e9d0800000000000000
+      internalID: -2745111598071257526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745231a20ac31030800000000000000
+      internalID: 3464334651021218936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c2676ff98c94b60800000000000000
+      internalID: 7730930824718462031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df1b7e8cac96cc0800000000000000
+      internalID: -3717217053188162197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a5f89744959a60800000000000000
+      internalID: 7680207774780072066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9935f84d99a11e0800000000000000
+      internalID: -2226297927564551682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4303421f8f6765b0800000000000000
+      internalID: -5375204969966009524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb39375bacc1680800000000000000
+      internalID: -8782922292602356837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_185
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262016bc198d9c8e0800000000000000
+      internalID: -1672567665897438622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_186
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3b374226675f2a0800000000000000
+      internalID: -6704322306380680287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873b6d2cdb28a5880800000000000000
+      internalID: -8621434785118112904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_188
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5469f42e1ecae1b10800000000000000
+      internalID: 1954189374489859653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_189
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7e535c37a84eb0800000000000000
+      internalID: -4735351130641498257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_190
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ca676505ee857d0800000000000000
+      internalID: -2929329528789095339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_191
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc8ba45d93a00230800000000000000
+      internalID: 3603059598022118648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a35d185c885df80800000000000000
+      internalID: -8082403574378317288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbaa16a008de8e20800000000000000
+      internalID: 3354856269735963589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3c11b312fe438b0800000000000000
+      internalID: -5173247145937878084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c1aee1fb976ea0800000000000000
+      internalID: -5879559325115889508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53806bc8f99011290800000000000000
+      internalID: -7921539688702801867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fcb826da8f1b240800000000000000
+      internalID: 4805895700947390366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19b9938d7e732460800000000000000
+      internalID: 7215750105521568029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bffe60ff8018e40800000000000000
+      internalID: 5656812498380127084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b997c1529d3e42110800000000000000
+      internalID: 1235362719576390043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_201
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a085a3bac15a626b0800000000000000
+      internalID: -5321384367141267446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_202
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1319bfd1dd53de0800000000000000
+      internalID: -1353932992110579254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_203
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b3ad26b620bede0800000000000000
+      internalID: -1302945006950401215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_204
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca838fb450eba610800000000000000
+      internalID: 1633645944446880457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_205
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f337af649df5e6360800000000000000
+      internalID: 7164769443996398399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_206
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71452a7ae8e5d9a0800000000000000
+      internalID: -6208800417491107461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fantasy-tileset_207
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251a95880842f9d50800000000000000
+      internalID: 6746150901286281554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
